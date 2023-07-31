@@ -13,3 +13,10 @@ print('I\'m CClois') # 2nd method, use back slash to reverse the quotation effec
 ## 1.4 Print str with "+"
 print ('Pen' + 'Pineapple')
 
+## 1.5 Change the int into str
+print(str(886))
+
+## 1.6 Print 1+2
+print(1+2)
+print('1+2')
+
