@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"name": "CommBank-Server",
+			"path": "../../github_repo/CommBank-Server"
 		}
 	],
 	"settings": {}
